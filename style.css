@@ -40,8 +40,8 @@ h1 {
 .faq.active::after {
   content: '\f075';
   font-family: 'Font Awesome 5 Free';
-  color: #2ecc71;
-  font-size: 7rem;
+  color: #2cee71;
+  font-size: 5rem;
   position: absolute;
   opacity: 0.2;
   top: 25px;
