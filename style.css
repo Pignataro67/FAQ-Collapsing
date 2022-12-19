@@ -10,12 +10,12 @@ body {
 }
 
 h1 {
-  margin: 50px 0 30px;
+  margin: 50px 0 25px;
   text-align: center;
 }
 
 .faq-container {
-  max-width: 600px;
+  max-width: 590px;
   margin: 0 auto;
 }
 
