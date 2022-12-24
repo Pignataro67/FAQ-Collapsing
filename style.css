@@ -85,3 +85,6 @@ h1 {
   width: 30px;
 }
 
+.faq-toggle:focus {
+  outline: 0;
+}
