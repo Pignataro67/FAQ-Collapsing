@@ -41,10 +41,10 @@ h1 {
   content: '\f065';
   font-family: 'Font Awesome 5 Free';
   color: #2cee71;
-  font-size: 5rem;
+  font-size: 10rem;
   position: absolute;
   opacity: 0.4;
-  top: 20px;
+  top: 25px;
   left: 35px;
   z-index: 0;
 }
