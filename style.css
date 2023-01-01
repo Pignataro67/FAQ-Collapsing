@@ -73,4 +73,8 @@ nav ul a {
   background-color: #fff;
   border: 0;
   cursor: pointer;
+  padding: 0;
+  position: relative;
+  height: 30px;
+  width: 30px;
 }
