@@ -95,11 +95,11 @@ nav ul a {
 
 .icon .line2 {
   top: auto;
-  bottom: 10px;
+  bottom: 15px;
 }
 
 nav.active .icon .line1 {
-  transform: rotate(-765deg) translateY(5.5px);
+  transform: rotate(-760deg) translateY(5.5px);
 }
 
 nav.active .icon .line2 {
