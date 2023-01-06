@@ -75,8 +75,8 @@ nav ul a {
   cursor: pointer;
   padding: 0;
   position: relative;
-  height: 30px;
-  width: 30px;
+  height: 25px;
+  width: 25px;
 }
 
 .icon:focus {
