@@ -26,4 +26,8 @@ header {
   background-color: transparent;
   border: 2px solid var(--primary-color);
   border-radius: 50px;
+  font-family: inherit;
+  font-size: 2rem;
+  padding: 0.7 1rem;
+  color: #fff;
 }
