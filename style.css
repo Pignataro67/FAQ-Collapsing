@@ -27,7 +27,7 @@ header {
   border: 4px solid var(--primary-color);
   border-radius: 55px;
   font-family: inherit;
-  font-size: 2rem;
-  padding: 0.9 1rem;
+  font-size: 3rem;
+  padding: 0.8 1rem;
   color: #fff;
 }
