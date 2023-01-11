@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
 
 :root {
-  --primary-color: #22254b;
+  --primary-color: #2224b;
   --secondary-color: #373b69;
 }
 
@@ -16,7 +16,7 @@ body {
 }
 
 header {
-  padding: 3rem;
+  padding: 2rem;
   display: flex;
   justify-content: flex-end;
   background-color: var(--secondary-color);
