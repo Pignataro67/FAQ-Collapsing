@@ -25,9 +25,9 @@ header {
 .search {
   background-color: transparent;
   border: 5px solid var(--primary-color);
-  border-radius: 60px;
+  border-radius: 55px;
   font-family: inherit;
   font-size: 3rem;
-  padding: 0.9 1rem;
+  padding: 0.9 2rem;
   color: #fff;
 }
